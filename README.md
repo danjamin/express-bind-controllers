@@ -5,7 +5,7 @@ Magically binds controllers to your express app based on a file path to your con
 # Installation
 
 ```sh
-npm install --save git+ssh://git@github.com:danjamin/express-bind-controllers.git#v0.1.0
+npm install --save https://github.com/danjamin/express-bind-controllers/tarball/v0.1.0
 ```
 
 # Example usage
