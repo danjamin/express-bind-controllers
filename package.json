@@ -1,0 +1,16 @@
+{
+  "name": "express-bind-controllers",
+  "version": "0.1.0",
+  "description": "magically binds controllers to your express app based on a file path to your controllers",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {},
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:danjamin/express-bind-controllers.git"
+  },
+  "license": "MIT"
+}
