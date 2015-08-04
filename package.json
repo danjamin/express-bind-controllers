@@ -1,6 +1,6 @@
 {
   "name": "express-bind-controllers",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "author": "danjamin <e051ba3be@gmail.com>",
   "description": "magically binds controllers to your express app based on a file path to your controllers",
